@@ -1,0 +1,22 @@
+﻿  Source.cpp
+H:\c++deviloper\vector\vector\Source.cpp(253,20): warning C4018: <: несоответствие типов со знаком и без знака
+H:\c++deviloper\vector\vector\Source.cpp(260,20): warning C4018: <: несоответствие типов со знаком и без знака
+H:\c++deviloper\vector\vector\Source.cpp(163,22): warning C4018: <: несоответствие типов со знаком и без знака
+H:\c++deviloper\vector\vector\Source.cpp(158): message : во время компиляции функции-члена класс шаблон "void Vector<std::string>::resize(size_t,T)"
+          with
+          [
+              T=std::string
+          ]
+H:\c++deviloper\vector\vector\Source.cpp(272): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<std::string>::resize(size_t,T)"
+          with
+          [
+              T=std::string
+          ]
+H:\c++deviloper\vector\vector\Source.cpp(245): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<std::string>"
+H:\c++deviloper\vector\vector\Source.cpp(172,26): warning C4018: <: несоответствие типов со знаком и без знака
+H:\c++deviloper\vector\vector\Source.cpp(180,25): warning C4018: <: несоответствие типов со знаком и без знака
+H:\c++deviloper\vector\vector\Source.cpp(136,21): warning C4018: <: несоответствие типов со знаком и без знака
+H:\c++deviloper\vector\vector\Source.cpp(128): message : во время компиляции функции-члена класс шаблон "void Vector<std::string>::reserve(size_t)"
+H:\c++deviloper\vector\vector\Source.cpp(191): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<std::string>::reserve(size_t)"
+H:\c++deviloper\vector\vector\Source.cpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  vector.vcxproj -> H:\c++deviloper\vector\Debug\vector.exe
